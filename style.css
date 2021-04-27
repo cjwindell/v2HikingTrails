@@ -1,0 +1,26 @@
+body {
+	background-color: #C4DACF;
+}
+
+h1 {
+	color: #4A5759;
+	text-align: center;
+	font-family: 'Dela Gothic One';
+}
+
+p, li, a {
+	font-family: verdana;
+	font-size: 18px;
+}
+
+img {
+	border: 5px solid #4A5759;
+    border-radius: 10%;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 60%;
+}
